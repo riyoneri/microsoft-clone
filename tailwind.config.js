@@ -11,6 +11,7 @@ module.exports = {
         "custom-blue": "#1a59c8",
         "back-gray": "#F2F2F2",
         "back-blue": "#F0F8FF",
+        "hover-blue": "#14459B",
       },
     },
     container: {
