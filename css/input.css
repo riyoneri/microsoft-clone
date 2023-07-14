@@ -1,0 +1,19 @@
+.theme-gradient {
+    color: transparent;
+    background-image: linear-gradient(90deg,#7209d4,#2832d4 33%,#00a5b2);
+    background-clip: text;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Segoe-Regular;
+    src: url(../assets/fonts/segoeui-vf-display.5c8aa5a.woff2) format("opentype");
+}
+
+@font-face {
+    font-family: Segoe-Semi-Bold;
+    src: url(../assets/fonts/segoeui-vf-display-semibold.b7bb141.woff2) format("opentype");
+}
